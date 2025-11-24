@@ -2,7 +2,7 @@
 
 # 🍽️ TPV System - Gestión de Restaurante
 
-![Estado del Proyecto](https://img.shields.io/badge/Estado-Funcional-success)
+![Estado del Proyecto](https://img.shields.io/badge/Estado-Desarrollo-success)
 ![Tech Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20JS%20%7C%20Node.js-blue)
 
 Sistema de Terminal Punto de Venta (TPV) personalizado, desarrollado para optimizar la gestión de pedidos y cobros en un entorno de hostelería.
